@@ -1,7 +1,7 @@
 package com.java.samples;
 
 /**
- * Hello world!
+ * Hello world!!
  *
  */
 public class App 
